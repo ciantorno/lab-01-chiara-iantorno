@@ -2,6 +2,7 @@
 title: "Lab 01 - Hello R!"
 author: "Chiara Iantorno"
 output: pdf_document
+output:
   tufte::tufte_html:
     css: ../lab.css
     tufte_variant: "envisioned"
